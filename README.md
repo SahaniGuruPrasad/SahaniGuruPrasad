@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahani Guru Prasad</h1>
 <h3 align="center">A passionate Data Science Learner from India</h3>
 
-- 🌱 I’m currently learning *Data Science*
+- 🌱 I’m currently learning Data Science
 
-- 📫 How to reach me *sahaniguruprasad@gmail.com*
+- 📫 How to reach me  sahaniguruprasad@gmail.com
 
 
 <p align="left">
